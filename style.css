@@ -87,6 +87,29 @@ img.me {
     margin-top: 10px;
 }
 
+.custom-card {
+    background-color: rgb(18, 18, 62)!important;
+    color: white;
+  }
+
+  /* Custom CSS for the card headers */
+  .custom-card .card-header {
+    background-color: rgb(18, 18, 62);
+    color: #0D6EFD!important;
+    border: 1px solid #0D6EFD;
+  }
+
+  /* Custom CSS for the card texts */
+  .custom-card .card-text {
+    color: white;
+  }
+
+  /* Custom CSS for the card buttons */
+  .custom-card {
+    background-color: white;
+    color: rgb(18, 18, 62);
+  }
+
 .about-me-section {
     margin-bottom: 100px;
  
@@ -125,9 +148,7 @@ img.me {
     text-decoration: none;
 }
 
-.card-text{
-    color: rgb(108, 32, 180)!important
-}
+
 
 
 /*
